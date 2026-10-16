@@ -1,0 +1,5 @@
+participant_id,y_true,probability
+demo-01,0,0.10
+demo-02,0,0.40
+demo-03,1,0.60
+demo-04,1,0.90

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "未命名项目",
+    "objective": "待从用户请求提取；初始化不代表需求已确定",
+    "updated_at": "",
+    "scope_review": "draft"
+  },
+  "requirements": []
+}

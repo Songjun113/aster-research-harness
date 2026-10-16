@@ -1,0 +1,10 @@
+{
+  "task_id": "synthetic-binary-demo",
+  "project_root": "..",
+  "source_files": ["aster_harness.py", "examples/demo_task.py"],
+  "inputs": ["examples/synthetic_predictions.csv"],
+  "command": ["{python}", "examples/demo_task.py", "examples/synthetic_predictions.csv", "predictions.csv"],
+  "timeout_seconds": 10,
+  "expected_outputs": ["predictions.csv"],
+  "review_csv": "predictions.csv"
+}

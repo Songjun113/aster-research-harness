@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "aster-demo",
+    "objective": "待从用户请求提取；初始化不代表需求已确定",
+    "updated_at": "2026-10-16",
+    "scope_review": "draft"
+  },
+  "requirements": []
+}
